@@ -1,4 +1,4 @@
-Resources:
+﻿Resources: 10.28
 
 Alcohol Use Disorder (AUD) in the United States:
 • Adults (ages 18+): According to the 2015 NSDUH, 15.1 million adults ages 18 and older (6.2 percent of this age group) had AUD. This includes 9.8 million men (8.4 percent of men in this age group) and 5.3 million women (4.2 percent of women in this age grou).
