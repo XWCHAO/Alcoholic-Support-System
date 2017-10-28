@@ -1,18 +1,18 @@
 # Alcoholic-Support-System
 It's a capstone project aims to designing a system that could help alcoholic people back to normal.
 
-## == update by yongfat ==
+## updated by yongfat ==
 ### Share some links  
 
-Share some links for reading or watching, you guys should definitely watch some of these to know more about alcoholism and the hugh impacts it makes to alcoholics' lives!:
+Share some links for reading or watching, you guys should definitely watch some of these to know more about alcoholism and the huge impacts it makes to alcoholics' lives!:
 
 [video]HBO documentary Risky Drinking(2016.12.19): https://www.youtube.com/watch?v=eofKFReO3zo  
 Summary:  
 One in four adults in the U.S. is a binge drinker. Binge drinking accounts for more than half of the alcohol consumed by adults in the U.S..   
 Less than 20% of people with an alcohol use disorder receive treatment.  
-Three FDA-approved pharmachotherapies for alcoholism acamprosate and naltrexone
+Three FDA-approved pharmacotherapies for alcoholism acamprosate and naltrexone
 (In alcohol treatment, there are relatively new drugs naltrexone (Revia) and acamprosate (Campral) that are said to help reduce cravings. -- from FORBES: Reinventing Rehab)  
-About 80% of people with an alcohol use disorder will relapse within the first year of soberity.  
+About 80% of people with an alcohol use disorder will relapse within the first year of sobriety.  
 It requires a long term solution.  
 Although more men than women have an alcohol use disorder, the gap is narrowing.  
 Blackouts are episodes of amnesia that disrupt the ability to form new memories while intoxicated. You forget how much you drank exactly.
