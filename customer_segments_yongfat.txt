@@ -1,4 +1,11 @@
-﻿Resources: 10.28
+﻿1, Customer Segments:
+	Alcoholics who want to remain anonymous in their treatment.
+	
+2, Value Proposition:
+	Provide a private way via technology to match patients and doctors, professional health experts in a private, accessible, convenient. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much cheaper and more efficient making it attractive for health insurance to cover the cost of service.
+
+
+Resources: 10.28
 
 Alcohol Use Disorder (AUD) in the United States:
 • Adults (ages 18+): According to the 2015 NSDUH, 15.1 million adults ages 18 and older (6.2 percent of this age group) had AUD. This includes 9.8 million men (8.4 percent of men in this age group) and 5.3 million women (4.2 percent of women in this age grou).
