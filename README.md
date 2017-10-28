@@ -3,7 +3,7 @@ It's a capstone project aims to designing a system that could help alcoholic peo
 
 == update by yongfat ==
 
-Share some links for reading or watching:
+Share some links for reading or watching, you guys should definitely watch some of these to know more about alcoholism and the hugh impacts it makes to alcoholics' lives!:
 
 [video]HBO documentary Risky Drinking(2016.12.19): https://www.youtube.com/watch?v=eofKFReO3zo  
    
@@ -15,3 +15,9 @@ It's hard to find a fine doctor to cure the addition "disease" or device to dete
 Celebrities love to go to the expensive Malibu places 8~9 times(non-hospital rehab residential treatment) perhaps because the hospital programs don't work. Cliffside Malibu guarantee that it makes alcoholics sober much faster. It costs 73,000 dollars a month, while Four Seasons costs 40,000 dollars.  
 Upper-Middle classes may have the chances to cure themselves spending such amount of money, while poor ones only have to do the 12-step or die desperately.  
 Majority of hospitals are for profits, and only county hospitals could be non-profit. Poor people are fucked by addictions. Many recovery/ treatment center do kickbacks and don't treat patients well, even many patients died after their family paid a lot of money because the centers' negative acts.
+
+[video]Alcoholism Documentary (A Very Good Real Example!) from National Geographic Channel(2015.05.05):  
+https://www.youtube.com/watch?v=6A9KG4d3j9o  
+Summary:  
+1 in 17 americans abuse alcohol.  
+Alcohol rapidly (90s) enters the bloodstream and reaches the brain, increasing the firing rate of pleasure chemicals like [dopamine] and [endorphins], the effect that provides the high. But excessive intake triggers the body defending the alcohol. (time stamp: https://youtu.be/6A9KG4d3j9o?t=3m11s)
