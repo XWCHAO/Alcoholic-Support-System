@@ -19,6 +19,19 @@ Chronic alcohol abuse can cause an overall reduction in brain function and size.
 You can go to a counselor and receive cognitive behavioral therapy which helps you deal with stressors and builds resilience for situations that are going to tempt you to drink. There are some medications will help you along the way. The real issue is that your whole life has to change so an individual like this will probably have to be supervised for a long time to come by some family member or loved one or some group because alcohol is killing them. (resources to help :https://www.hbo.com/documentaries/risky-drinking  by HBO)     
    
 [article]Drinking Highest Among Educated, Upper-Income Americans(2015.07.27):  http://news.gallup.com/poll/184358/drinking-highest-among-educated-upper-income-americans.aspx?utm_source=Well-Being&utm_medium=newsfeed&utm_campaign=tiles  
+Summary:  
+Higher educated, upper income, more alcohol.  
+Distribution:  
+	[Income/Education]Greater economic resources + higher socio-economic = buy more, participate in more activities including ding our at restaurants, going on vacation or socializing with coworkers(drinking rate in working > non-working in US).  
+	[Religiosity] Attending church weekly drink (47%) < attending church less drink(69%)  
+	[Gender] Men drink (69%) > women(59%)  
+	[Racial] non-Hispanic whites (69%) > nonwhites(52%)  
+	[Age] most common among 30~49 years old.  
+Patterns:  
+	[Income/Education]Near half of higher-income/ more educated drink within the last 24 hours > less than one-third of non-college graduates and middle- or lower-imcome drinkers.
+	[Moderation]BUT, data shows that upper-income drinkers mostly drink in moderation, but lower-income Americans tend to abstain completely, or to drink heavily.
+
+
   
 [video]From Rehab to a Body Bag | Dying for Treatment: VICE Reports (2014.11.10): https://www.youtube.com/watch?v=mggiD9OvRQQ  
 Summary:  
