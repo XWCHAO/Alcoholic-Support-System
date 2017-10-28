@@ -49,3 +49,6 @@ Medical test to reveal how much permanent invertible damage to a body alcohol ha
 1, Alcohol inhibits skin's ability to repair, the alcoholic don't heal wounds well. Alcoholics usually don't eat well, which leads to malnutrition. [Avascular necrosis for bones.] The whole body would be decimated by alcohol.   
 2, Organs absorbs poison(alcohol) 7/24. Pancreas suffers most, and is the main cause of pain when one eats. Its main function is to release enzymes into small intestine to dissolve food as it passes through the digestive system. But the pancreas got confused by the toxicity of alcohol and release enzymes into its own tissues, the organ starts to cannibalize itself causing extreme pain.
 Alcoholism is not a individual disease, it's a family disease, it affect everyone in a family.
+
+  
+[Article]The Irrationality of Alcoholics Anonymous(2015.05): https://www.theatlantic.com/magazine/archive/2015/04/the-irrationality-of-alcoholics-anonymous/386255/  
