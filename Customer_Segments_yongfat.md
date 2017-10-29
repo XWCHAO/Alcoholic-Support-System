@@ -5,7 +5,7 @@ Provide a private way via technology to match patients and doctors, professional
 **Who** are they and **why** would they buy?  
 **Pains:** Customer problem or need  
 **Gains:** Customer solution  
-> Different customer segments are different focuses for us, though they may have slight overlapping features. And we try to cover the most important ones of them.
+> Different customer segments are different targets for us, though they may have slight overlapping features. And we try to focus and cover the most important ones of them, maybe simultaneously by one product.
 
 ## Segment A  
 - **[Who]** Alcoholics who want to remain anonymous in their treatment.  
