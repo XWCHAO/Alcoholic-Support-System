@@ -1,9 +1,9 @@
 # Value Proposition:
-Provide a private way via technology to match patients and doctors, professional health experts in a private, accessible, convenient. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much cheaper and more efficient making it attractive for health insurance to cover the cost of service.
+Provide a private way via technology to match patients and doctors, professional health experts in a private, accessible, convenient. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much cheaper and more efficient making it attractive for health insurance to cover the cost of service.  
 
 # Customer Segments:
 **Who** are they and **why** would they buy?  
-**Pains:** Customer problem or need  
+**Pains:** Customer problem or need    
 **Gains:** Customer solution  
 > Different customer segments are different targets for us, though they may have slight overlapping features. And we try to focus and cover the most important ones of them, maybe simultaneously by one product.
 
@@ -13,7 +13,7 @@ Provide a private way via technology to match patients and doctors, professional
 So, it is important to keep the whole cure process anonymous, even the doctors or therapists do not know exactly who the patients are. All the doctors or therapists care about are the information of the physical and psychological symptoms of the patients' body as well as their medical history.
 
 ## Segment B  
-- **[Who]** Alcoholics who are not rich to see a good doctor or alcohol use disorder therapist.  
+- **[Who]** Alcoholics who are not rich enough to see a good doctor or alcohol use disorder therapist.  
 - **[Why]** Nowadays, Effective and valid treatments are usually expensive. Rich people are capable to explore different possibilities to regain new lives, but poor ones are not. Majority of hospitals are for profits, and only county hospitals could be non-profit. They cannot go to expensive profit-making hospitals or even go for non-hospital rehab residential treatment. An example is Cliffside Malibu, which guarantees the treatment works and costs over 73,000 dollars a month, while Four Seasons costs about 40,000 dollars. Celebrities go there for help maybe because it works better than going to the hospitals. Middle- or lower-income immoderate drinkers tend to abstain completely, or to drink heavily. When they get addicted to alcohol, their lives are ruined since they have no available money to ask a doctor for help or no insurance cover. (Of course there is still one way to go, the AA 12-step method)  
 So, decreasing the cost of the therapy is necessary for poor alcoholic patients to afford it.  
 
@@ -24,5 +24,5 @@ So, it would be promising for desperate patients or families to have a platform 
 
 ## Segment D  
 - **[Who]** Alcoholics who cannot persist the rehab program.  
-- **[Why]**  About 80% of people with an alcohol use disorder will relapse within the first year of sobriety. It requires a long term solution rather than a short one. One of the reasons for high alcoholism therapy dropout rate is inconvenience. People who have a disease still need to work, especially when it is the early stage of alcoholism. In the meantime, alcoholics need to see the doctors or therapists several times in a month or even in a week because of the self-control malfunction. Alcoholic patients need to be supervised and reminded in some way. It takes patients large amount of time to commute from home to hospital. Since a course of treatment may last for months or longer, it becomes really difficult for patients to hold on to get sobriety eventually, especially for businessmen or entertainment celebrities, who are always in a busy condition or live in no fixed homes.  
-So, it may become workable and sustainable when the treatment between patients and doctors could be processed nearly anywhere and anytime.
+- **[Why]** About 80% of people with an alcohol use disorder will relapse within the first year of sobriety. It requires a long term solution rather than a short one. One of the reasons for high alcoholism therapy dropout rate is inconvenience. People who have a disease still need to work, especially when it is the early stage of alcoholism. In the meantime, alcoholics need to see the doctors or therapists several times in a month or even in a week because of the self-control malfunction. Alcoholic patients need to be supervised and reminded in some way. It takes patients large amount of time to commute from home to hospital. Since a course of treatment may last for months or longer, it becomes really difficult for patients to hold on to get sobriety eventually, especially for businessmen or entertainment celebrities, who are always in a busy condition or live in no fixed homes.  
+So, it may become workable and sustainable when the treatment between patients and doctors could be processed nearly anywhere and anytime.  
