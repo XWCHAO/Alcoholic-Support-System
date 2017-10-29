@@ -6,24 +6,24 @@
 	Pains: Customer problem or need
 	Gains: Customer solution
 
-	A  
-	[Who] Alcoholics who want to remain anonymous in their treatment.
-	[Why] The alcoholic patient dropout rate is 76% in hospital and rehab. The number one reason is privacy as these people do not want to be seen in a rehab center or alcoholic treatment hospital. People who get alcoholism suffer a lot, and usually they don't want anyone else to find out these facts, especially celebrities, who are seriously concerned about their reputation. Celebrities' going to the hospital or rehab center for treatment could always be discovered by reporters or ordinary people, then it won't be secrets any more among the society, which is quite harmful to the treatment process because patients have got negative feelings about themselves and the treatment itself. Even not famous people who get alcoholism will not be pleased when anyone except his/her parents is talking about his/her passive life, which is an important cause of people dropping the alcoholism therapy.  
-	So, it is important to keep the whole cure process anonymous, even the doctors or therapists do not know exactly who the patients are. All the doctors or therapists care about are the information of the physical and psychological symptoms of the patients' body as well as their medical history.
+>A  
+[Who] Alcoholics who want to remain anonymous in their treatment.
+[Why] The alcoholic patient dropout rate is 76% in hospital and rehab. The number one reason is privacy as these people do not want to be seen in a rehab center or alcoholic treatment hospital. People who get alcoholism suffer a lot, and usually they don't want anyone else to find out these facts, especially celebrities, who are seriously concerned about their reputation. Celebrities' going to the hospital or rehab center for treatment could always be discovered by reporters or ordinary people, then it won't be secrets any more among the society, which is quite harmful to the treatment process because patients have got negative feelings about themselves and the treatment itself. Even not famous people who get alcoholism will not be pleased when anyone except his/her parents is talking about his/her passive life, which is an important cause of people dropping the alcoholism therapy.  
+So, it is important to keep the whole cure process anonymous, even the doctors or therapists do not know exactly who the patients are. All the doctors or therapists care about are the information of the physical and psychological symptoms of the patients' body as well as their medical history.
 
-	B  
-	[Who] Alcoholics who are not rich to see a good doctor or alcohol use disorder therapist.
-	[Why] Nowadays, Effective and valid treatments are usually expensive. Rich people are capable to explore different possibilities to regain new lives, but poor ones are not. They cannot go to expensive profit-making hospitals or even go for non-hospital rehab residential treatment. An example is Cliffside Malibu, which guarantees the treatment works and costs over 73,000 dollars a month, while Four Seasons costs about 40,000 dollars. Celebrities go there for help maybe because it works better than going to the hospitals. Middle- or lower-income immoderate drinkers tend to abstain completely, or to drink heavily. When they get addicted to alcohol, their lives are ruined since they have no available money to ask a doctor for help or no any insurance cover. (Of course there is still one way to go, the AA 12-step method)  
-	So, decreasing the cost of the therapy is necessary for poor alcoholic patients to afford it.  
+>B  
+[Who] Alcoholics who are not rich to see a good doctor or alcohol use disorder therapist.
+[Why] Nowadays, Effective and valid treatments are usually expensive. Rich people are capable to explore different possibilities to regain new lives, but poor ones are not. They cannot go to expensive profit-making hospitals or even go for non-hospital rehab residential treatment. An example is Cliffside Malibu, which guarantees the treatment works and costs over 73,000 dollars a month, while Four Seasons costs about 40,000 dollars. Celebrities go there for help maybe because it works better than going to the hospitals. Middle- or lower-income immoderate drinkers tend to abstain completely, or to drink heavily. When they get addicted to alcohol, their lives are ruined since they have no available money to ask a doctor for help or no any insurance cover. (Of course there is still one way to go, the AA 12-step method)  
+So, decreasing the cost of the therapy is necessary for poor alcoholic patients to afford it.  
 
-	C  
-	[Who] Alcoholics who have no idea to find a certificated therapist for their alcoholism.  
-	[Why] Cases exist that people spend a lot of money on useless treatment by irresponsible rehab center.  
+>C  
+[Who] Alcoholics who have no idea to find a certificated therapist for their alcoholism.  
+[Why] Cases exist that people spend a lot of money on useless treatment by irresponsible rehab center.  
 
-  D  
-	[Who] Alcoholics who cannot persist the rehab program.
-	[Why] One of the reasons for high alcoholism therapy dropout rate is inconvenience. People who have a disease still need to work, especially when it is the early stage of alcoholism. In the meantime, alcoholics need to see the doctors or therapists several times in a month or even in a week because of the self-control malfunction. Alcoholic patients need to be supervised and reminded in some way. It takes patients large amount of time to commute from home to hospital. Since a course of treatment may last for months or longer, it becomes really difficult for patients to hold on to get sobriety eventually, especially for businessmen or entertainment celebrities, who are always in a busy condition or live in no fixed homes.  
-	So, it may become workable and sustainable when the treatment between patients and doctors could be processed nearly anywhere and anytime.
+>D  
+[Who] Alcoholics who cannot persist the rehab program.
+[Why] One of the reasons for high alcoholism therapy dropout rate is inconvenience. People who have a disease still need to work, especially when it is the early stage of alcoholism. In the meantime, alcoholics need to see the doctors or therapists several times in a month or even in a week because of the self-control malfunction. Alcoholic patients need to be supervised and reminded in some way. It takes patients large amount of time to commute from home to hospital. Since a course of treatment may last for months or longer, it becomes really difficult for patients to hold on to get sobriety eventually, especially for businessmen or entertainment celebrities, who are always in a busy condition or live in no fixed homes.  
+So, it may become workable and sustainable when the treatment between patients and doctors could be processed nearly anywhere and anytime.
 
 
 
