@@ -1,15 +1,15 @@
 # Value Proposition:
-### What bundle of products and services are we offering to each Customer Segment?
+**What bundle of products and services are we offering to each Customer Segment?**
 - The **startup product** consists of a web page where patients can enter personal data. Our software can match them with the best doctors and therapist for treatment (i.e., according to their health plans and insurance). Once the relationship is established and approved, all sessions will be conducted via our mobile app that is similar to the tradition “rehab clinic” but at the convenience of the patients. The treatment session can be done at any time, anyplace where doctors and therapists can provide consulting and treatment over the private mobile phone. Prescribed medication can be delivered to their patients’ home or picked up at a local pharmacy.  
 The **future step** is to collect and analyze patients and treatment data to learn the best treatment possible among a large number of patients then share with doctors, therapists to improve their approach.    
 **Milestone:** 1) Create the product: web page and the mobile app. 2) solicit patients 3) Partnership with health providers 4) grow the customers and build more partnerships to provide more care on broader scale in many cities, the U.S. continent, then other countries.
 
-### Why customers are willing to pay for your product or service?
+**Why customers are willing to pay for your product or service?**
 - We provide a **private, accessible, convenient** way to match patients and doctors, professional health experts. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much **cheaper** and more **efficient** making it **attractive for health insurance to cover** the cost of service. It is a brand new way for alcoholics to become sober.
 
-### Can it solve a customer problem or satisfies a customer need?
+**Can it solve a customer problem or satisfies a customer need?**
 - Yes. In the US, less than 20% of people with an alcohol use disorder receive treatment. As long as we make it anonymous, cheap, credible, convenient and sustainable, alcoholics who want to be sober again are willing to use it.
-  
+
 
 
 # Customer Segments:
