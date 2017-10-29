@@ -1,5 +1,5 @@
 # Value Proposition:
-	Provide a private way via technology to match patients and doctors, professional health experts in a private, accessible, convenient. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much cheaper and more efficient making it attractive for health insurance to cover the cost of service. 
+>Provide a private way via technology to match patients and doctors, professional health experts in a private, accessible, convenient. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much cheaper and more efficient making it attractive for health insurance to cover the cost of service.
 
 # Customer Segments:
 	Who are they and why would they buy?  
