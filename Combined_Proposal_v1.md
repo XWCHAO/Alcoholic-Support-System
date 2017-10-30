@@ -92,10 +92,10 @@ Problem drinking that becomes severe is given the medical diagnosis of “alcoho
 Hospitals could help us have access to customers, i.e. patients and doctors. The solution is to connect as many patients as possible to healthcare providers. The startup will keep a partnership with several hospitals and health plans for their treatment. The Entrepreneur's Guide to Hospital Partnerships provides a useful guide for us to keep the relationship with hospitals [Ref2]:
 
 2. Alcoholics Anonymous:(2million people, anonymous, willing to control their drinking habit): access to customers
-Alcoholics Anonymous is an international fellowship of men and women who have had a drinking problem. It is nonprofessional, self-supporting, multiracial, apolitical, and available almost everywhere. There are no age or education requirements. Membership is open to anyone who wants to do something about his or her drinking problem.. These people who are the members of AA is highly our target customers for the following reasons: [Ref3]
-  (1) The number of AA member are huge, which close to 2 million people worldwide are members of AA as of 2016. This means that we have a large customer market.  
-  (2) The AA member are those who have the willing to change and control their drink habit which are willing to consult the doctor for professional guidance. This is because according to AA's 2014 membership survey, 27% of members have been sober less than one year, 24% have 1–5 years sober, 13% have 5–10 years, 14% have 10–20 years, and 22% have more than 20 years sober.  
-  (3) AA members is as their statement claims that everyone is association is anonymous, so they want to have a private treatment from the professional doctors but are afraid be tracked by other people. So they are in need of our product which could pair them with doctors in a private way.  
+Alcoholics Anonymous is an international fellowship of men and women who have had a drinking problem. It is nonprofessional, self-supporting, multiracial, apolitical, and available almost everywhere. There are no age or education requirements. Membership is open to anyone who wants to do something about his or her drinking problem.. These people who are the members of AA is highly our target customers for the following reasons: [Ref3]  
+  **(1)** The number of AA member are huge, which close to 2 million people worldwide are members of AA as of 2016. This means that we have a large customer market.  
+  **(2)** The AA member are those who have the willing to change and control their drink habit which are willing to consult the doctor for professional guidance. This is because according to AA's 2014 membership survey, 27% of members have been sober less than one year, 24% have 1–5 years sober, 13% have 5–10 years, 14% have 10–20 years, and 22% have more than 20 years sober.  
+  **(3)** AA members is as their statement claims that everyone is association is anonymous, so they want to have a private treatment from the professional doctors but are afraid be tracked by other people. So they are in need of our product which could pair them with doctors in a private way.  
 
 3. Insurance Company(Money and resources)
 Most people’s health insurance policies will not cover all alcohol abuse treatment or rehab expenses. Typically, you’ll still have some out-of-pocket costs.[Ref4]  
@@ -107,6 +107,14 @@ The cost varies depending on location, length, and what’s included. For exampl
 Since we provide a private way via technology to match patients and doctors, professional health experts in a private, accessible, convenient. Instead of having to visit a clinic, the patients can work with a doctor, and therapist, over their mobile phone. It is much cheaper and more efficient making it attractive for health insurance to cover the cost of service. This could reduce people’s cost and make them are more willing to use our product. In the meantime the Insurance Company could also cover the treatment because of the low price.
 
 # Cost Structure
+### Fixed Costs
+Since we have to implemented a web application and a mobile application, we need a server to interact with mobile application and we also have to deploy our web application directly on a server. Hence, the first and the most important cost for our business is the cost of cloud server. The cost of cloud server depends on how many active users we will have. Since we don’t have a lot of users at first, we don’t need to buy a high-performance server which costs a lot. When more and more users start to use our service and application, and flow become larger and larger, we have to update our server. For example, to increase the number of servers, some act as load balancer to distribute requests, some act as cache to store some static resources. To buy separate databases to store increasing user information, or to use CDN service. But, now, since it’s a MVP, we don’t think about those things.
+### Variable Costs
+The first cost will be the cost of transportation to have conversation with different hospitals, different doctors, different organizations like AA, different centers and so on. Since it’s hard to decide how many interviews or conversations we will have, how many are valid, this will be a variable cost.  
+
+The second, since we have to give some rewarding to those organization including AA or professional centers to advertise our products, maybe this will be another variable cost. But this can be done negotiation, since we also can offer benefits to them.  
+
+We think our business is still a value-based business which is not cost-based.
 # Revenue
 According to Customer Segments and value proposition, there are 4 types of customers that are willing to pay for our customer, including patients who ask for convenience, privacy, lower price and lack of methods to find certificated therapist. To solve this problem, we offer features like doctor matching, online medicine store, social networking.  
 
