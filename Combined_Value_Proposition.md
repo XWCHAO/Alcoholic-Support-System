@@ -6,7 +6,7 @@
 5. Keep privacy: none knows your drinking problem except your trusted doctors
 
 ## Shiyao Li
-**Product**
+**Product**  
 A web page or mobile app where patients can enter personal data, then match them with the best doctors and therapist for treatment (i.e., according to their health plans and insurance).  
 
 ### The reason why customers are willing to pay?
@@ -45,15 +45,15 @@ The second problem is, all of them require patients’ offline participation. Fo
 ### OUR SOLUTION
 Based on the customer’s problems including alcohol use order itself, privacy issues and treatment problem, we should define different features of our product to solve every sub problem above.  
 **FEATURE 1** Doctor, Health Professionals, Psychologists Matching
-Feature1 is to solve alcohol use order treatment itself, since we need professionals to help a patient to cure their disorder, our system can help users to match a doctor and reserve a treatment basing on user’s insurance plan, users’ preference for doctors’ background, users’ symptoms, users’ special needs, users’ available time and so on.
+Feature1 is to solve alcohol use order treatment itself, since we need professionals to help a patient to cure their disorder, our system can help users to match a doctor and reserve a treatment basing on user’s insurance plan, users’ preference for doctors’ background, users’ symptoms, users’ special needs, users’ available time and so on.  
 **FEATURE 2** Private Information Interaction and Storage
-Our platform must make sure the privacy of the patients by make robust security technical solutions to optimize the interaction and storage of our information system. Besides, for relationship part, we also need to come up with reasonable strategy to deal with the relationship between patients and doctors like defining which information is necessary for treatment, how to sign the agreement with doctors to make sure the privacy of information
+Our platform must make sure the privacy of the patients by make robust security technical solutions to optimize the interaction and storage of our information system. Besides, for relationship part, we also need to come up with reasonable strategy to deal with the relationship between patients and doctors like defining which information is necessary for treatment, how to sign the agreement with doctors to make sure the privacy of information  
 **FEATURE 3** ONLINE DRUG MARKETS
-To optimize the efficiency and take advantage of online platform, our product can cooperate with drug company which can offer drugs focusing on alcoholic disorder treatment, distress treatment and so on. When users get the prescription from the doctor, he or she can directly buy drugs online.
+To optimize the efficiency and take advantage of online platform, our product can cooperate with drug company which can offer drugs focusing on alcoholic disorder treatment, distress treatment and so on. When users get the prescription from the doctor, he or she can directly buy drugs online.  
 **FEATURE 4** ONLINE SOCIAL NETWORKING FOR MUTUAL SUPPORT
-AA is a historic organization followed by many patients to organize meeting or activities to support each other to beat against disorder, but it’s not efficient, our platform can directly offer social networking to patients for them to freely have conversation and exchange ideas with each other. Plus, building a social networking for patients can help us lay a foundation for future data collection and big data analysis.
+AA is a historic organization followed by many patients to organize meeting or activities to support each other to beat against disorder, but it’s not efficient, our platform can directly offer social networking to patients for them to freely have conversation and exchange ideas with each other. Plus, building a social networking for patients can help us lay a foundation for future data collection and big data analysis.  
 **FEATURE 5** ONLINE COOPERATION WITH HOSPITALS AND CENTERS
-For someone who has a severe disorder, we also give users channel to make a reservation with hospitals or centers, and users don’t need to wait for more time.
+For someone who has a severe disorder, we also give users channel to make a reservation with hospitals or centers, and users don’t need to wait for more time.   
 ### CORE VALUE
 All in all, our product will be a product which combines features of customer-to-customer ecommerce (doctor and patient), business-to-customer ecommerce (drug company and patient), social networking site (social networking for patients) and online cooperation with professional centers. this product offers a complete treatment for alcohol use disorder not only offer professional treatment from doctors, online cooperation with hospital , online shopping for drugs, but also create unprofessional community for users to support each other.  
 
