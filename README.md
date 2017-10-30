@@ -13,3 +13,9 @@ Summaries of them could be seen at: https://github.com/XWCHAO/Alcoholic-Support-
 - [video]Alcoholism Documentary (A Very Good Real Example!) from National Geographic Channel(2015.05.05):  
 https://www.youtube.com/watch?v=6A9KG4d3j9o   
 - [Article]The Irrationality of Alcoholics Anonymous(2015.05): https://www.theatlantic.com/magazine/archive/2015/04/the-irrationality-of-alcoholics-anonymous/386255/    
+
+
+
+
+# shared Google DOC link:
+https://docs.google.com/document/d/1Jn37ae4wbAVWRI2vOzin6xxicm3BMvssC-kdj-TD-Bw/edit
