@@ -26,7 +26,7 @@ So, it may become workable and sustainable when the treatment between patients a
 
 # Value Proposition
 # Channel
-How communicates with customer segments to deliver a value proposition?
+How communicates with customer segments to deliver a value proposition?  
 •	Raising awareness among customers about product
 Mobile phone conversation maximizes privacy and convenience, making it easier for patients who can remain anonymous to stay long enough for their treatment of alcohol disorder. A software app could connect everyone, regardless of location, to access medical treatment to help them quit drinking.
 
@@ -67,9 +67,11 @@ We may first talk to insurance companies and see if their insurance plan can cov
 Including how to register an official verified account, and convince them the personal data they give to our app will never be disclosed.
 
 # Key Resources
-The key resources of our plan are Engineers who are good at mobile and web development, engineers who have the advanced natural language processing, and machine learning skills.
-1. Mobile and web development engineers:
+The key resources of our plan are Engineers who are good at mobile and web development, engineers who have the advanced natural language processing, and machine learning skills.  
+
+1. Mobile and web development engineers:  
 Our product is presented as an android APP and webpage, which could be used anywhere and anytime to pair the doctors and patients. Thus the design and testing of web application should require human resources, especially the software developers who have the skills in developing the frontend and backend mobile Application and webpage.  
+
 2. Text mining and machine learning engineers  
 Besides the paring application, we also need text mining to discover relevant information in text by transforming the text into data that can be used for further analysis. Text mining accomplishes this by using a variety of analysis methodologies; natural language processing and machine learning technologies. By using the text mining, we can analyze the habit of the patients and doctors, to make improvement of the paring process. In addition, we can help the doctors to make a better more precise diagnosis by mining the large amount of patients’ data. This could highly improve our users’ experiences for both doctors and patients. Therefor we need engineers who have the experience in data analysis and machine learning technologies. These engineers could highly improve the value of our applications, which may hit the market by our intelligent pairing and recommendation systems.
 
@@ -82,7 +84,8 @@ Reference:
 
 
 # Key Partnership
-The key partnership of our plan involves Hospitals, Alcoholics Anonymous (institutes) , Insurance Company.
+The key partnership of our plan involves Hospitals, Alcoholics Anonymous (institutes) , Insurance Company.  
+
 1. Healthcare Providers:
 Problem drinking that becomes severe is given the medical diagnosis of “alcohol use disorder” or AUD. AUD is a chronic relapsing brain disease characterized by compulsive alcohol use, loss of control over alcohol intake, and a negative emotional state when not using. An estimated 16 million people in the United States have AUD.  Approximately 6.2 percent or 15.1 million adults in the United States ages 18 and older had AUD in 2015. This includes 9.8 million men and 5.3 million women. Adolescents can be diagnosed with AUD as well, and in 2015, an estimated 623,000 adolescents ages 12–17 had AUD. [Ref1]
 
@@ -90,9 +93,10 @@ Hospitals could help us have access to customers, i.e. patients and doctors. The
 
 2. Alcoholics Anonymous:(2million people, anonymous, willing to control their drinking habit): access to customers
 Alcoholics Anonymous is an international fellowship of men and women who have had a drinking problem. It is nonprofessional, self-supporting, multiracial, apolitical, and available almost everywhere. There are no age or education requirements. Membership is open to anyone who wants to do something about his or her drinking problem.. These people who are the members of AA is highly our target customers for the following reasons: [Ref3]
-1) The number of AA member are huge, which close to 2 million people worldwide are members of AA as of 2016. This means that we have a large customer market.  
-2) The AA member are those who have the willing to change and control their drink habit which are willing to consult the doctor for professional guidance. This is because according to AA's 2014 membership survey, 27% of members have been sober less than one year, 24% have 1–5 years sober, 13% have 5–10 years, 14% have 10–20 years, and 22% have more than 20 years sober.  
-3) AA members is as their statement claims that everyone is association is anonymous, so they want to have a private treatment from the professional doctors but are afraid be tracked by other people. So they are in need of our product which could pair them with doctors in a private way.  
+  (1) The number of AA member are huge, which close to 2 million people worldwide are members of AA as of 2016. This means that we have a large customer market.  
+  (2) The AA member are those who have the willing to change and control their drink habit which are willing to consult the doctor for professional guidance. This is because according to AA's 2014 membership survey, 27% of members have been sober less than one year, 24% have 1–5 years sober, 13% have 5–10 years, 14% have 10–20 years, and 22% have more than 20 years sober.  
+  (3) AA members is as their statement claims that everyone is association is anonymous, so they want to have a private treatment from the professional doctors but are afraid be tracked by other people. So they are in need of our product which could pair them with doctors in a private way.  
+
 3. Insurance Company(Money and resources)
 Most people’s health insurance policies will not cover all alcohol abuse treatment or rehab expenses. Typically, you’ll still have some out-of-pocket costs.[Ref4]  
 
