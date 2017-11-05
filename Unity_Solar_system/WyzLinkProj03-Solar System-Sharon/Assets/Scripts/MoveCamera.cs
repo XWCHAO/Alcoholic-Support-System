@@ -13,6 +13,6 @@ public class MoveCamera : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		//transform.position = offset + earthtransform.position;
+		transform.position = offset + earthtransform.position;
 	}
 }
