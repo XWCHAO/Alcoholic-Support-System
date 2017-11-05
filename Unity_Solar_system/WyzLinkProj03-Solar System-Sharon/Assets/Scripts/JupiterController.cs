@@ -5,7 +5,7 @@ using UnityEngine;
 public class JupiterController : MonoBehaviour {
 
 	public float radius = 156.1f;
-	public float speed = 0.01f;
+	public float speed = 0.0033f;
 
 	// Use this for initialization
 	void Start()

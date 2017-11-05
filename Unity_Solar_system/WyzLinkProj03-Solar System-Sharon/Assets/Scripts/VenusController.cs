@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class VenusController : MonoBehaviour {
 	public float radius = 23.0f;
-	public float speed = 0.163f;
+	public float speed = 0.07f;
 
 	// Use this for initialization
 	void Start()

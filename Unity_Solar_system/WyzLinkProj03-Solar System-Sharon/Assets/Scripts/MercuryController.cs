@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MercuryController : MonoBehaviour {
 	public float radius = 10.0f;
-	public float speed = 0.415f;
+	public float speed = 0.05f;
 
 	// Use this for initialization
 	void Start()

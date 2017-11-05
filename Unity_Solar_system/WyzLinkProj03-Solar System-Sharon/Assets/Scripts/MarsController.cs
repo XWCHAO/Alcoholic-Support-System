@@ -5,7 +5,7 @@ using UnityEngine;
 public class MarsController : MonoBehaviour {
 
 	public float radius = 45.72f;
-	public float speed = 0.05f;
+	public float speed = 0.2f;
 
 	// Use this for initialization
 	void Start()
