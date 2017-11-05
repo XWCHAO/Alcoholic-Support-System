@@ -13,6 +13,11 @@ public class BigBang : MonoBehaviour {
 
     }
 
+    void OnCollisionEnter(Collision coll)
+    {
+        Destroy(this.gameObject);
+    }
+
     void OnTriggerEnter(Collider col)
     {
         //if (col.gameObject.name == "FireBall")
